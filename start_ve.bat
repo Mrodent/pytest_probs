@@ -1,0 +1,1 @@
+D:\apps\Python\virtual_envs\pytest_new_paths_test\Scripts\activate
